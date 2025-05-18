@@ -1,4 +1,4 @@
-# Challenge Data Science Latam ALURA
+# Challenge Data Science
 
 ## Análisis de Ventas de Tiendas
 
